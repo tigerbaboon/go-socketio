@@ -1,7 +1,7 @@
 # go-socketio
-💻 Example socketio with golang.
+- 💻 Example socketio with golang.
 
-💻 Check online user after connect system, realtime chat between connected user.
+- 💻 Check online user after connect system, realtime chat between connected user.
 
 ## 🚀 Get Started
 ```bash
